@@ -1,0 +1,9 @@
+{
+  "setting": {
+    "hour_digit": 13,
+    "minute_digit": 34,
+    "interval_time": 300,
+    "enable_read_timer": true,
+    "output_path_text": "E:/"
+  }
+}
